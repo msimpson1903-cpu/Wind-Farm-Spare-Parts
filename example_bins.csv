@@ -1,0 +1,5 @@
+Bin_ID,Warehouse,Aisle,Shelf,Bin,Description
+WH-A01-S01-B01,Main Warehouse,A01,S01,B01,Small mechanical parts
+WH-A01-S01-B02,Main Warehouse,A01,S01,B02,Electrical components
+WH-A02-S02-B01,Main Warehouse,A02,S02,B01,Hydraulic fittings
+T01-C01-B01,Turbine 1,C01,B01,Hydraulic spares
