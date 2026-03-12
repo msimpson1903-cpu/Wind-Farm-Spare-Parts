@@ -1,0 +1,5 @@
+Part_ID,Part_Name,Category,Location,Quantity,Min_Stock
+WF-MECH-0001,Hydraulic Pump,Mechanical,Warehouse,5,2
+WF-ELEC-0002,Control Module,Electrical,Warehouse,3,1
+WF-HYD-0003,Hydraulic Hose,Hydraulic,Turbine T01,10,4
+WF-MECH-0004,Yaw Bearing,Mechanical,Warehouse,1,1
